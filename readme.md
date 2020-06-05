@@ -29,11 +29,13 @@ It should be possible to build using Linux versions of HOOPS Exchange and Polygo
 	int ret = bridge.Process(filename, &solid);
 
 # Navigating the Codebase
-`.
+```
+.
 ├── src/ - (Bridge code)
 |
 └── samples/ - (Sample projects using the bridge)
-    └── simple/ - (Shows how to load a part and save to STL)`
+    └── simple/ - (Shows how to load a part and save to STL)
+```
 
 # Todo
 1. Add support for assemblies that create multiple PTSolid objects
