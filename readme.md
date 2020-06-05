@@ -8,7 +8,7 @@ Solid.
 1. HOOPS Exchange
 1. Polygonica
 
-Please goto [pages.techsoft3d.com/evalute](http://pages.techsoft3d.com/evalute) and request an evaluation of these SKDs
+Please goto [pages.techsoft3d.com/evaluate](http://pages.techsoft3d.com/evaluate) and request an evaluation of these SKDs
 
 # Building
 ## Windows
